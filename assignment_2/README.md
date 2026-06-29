@@ -41,4 +41,4 @@
 
 ## Result
 
-All queries passed – **20/20 points**.
+All queries passed – **25/25 points**.
